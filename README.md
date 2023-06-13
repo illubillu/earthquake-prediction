@@ -10,3 +10,9 @@ Libraries used:
 - sklearn
 - geopandas
 - shapely
+
+Datasets used: 
+- Significant Earthquakes Datset:  https://www.kaggle.com/datasets/usamabuttar/significant-earthquakes
+- Tectonic Plate Boudary Data:  https://www.usgs.gov/programs/earthquake-hazards/google-earthtmkml-files
+
+
